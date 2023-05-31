@@ -1,0 +1,11 @@
+print(1)
+for x=1,1000 do
+   if(x%7==0) then
+   print(x)
+   end
+end
+print(1000)
+
+
+
+  
